@@ -10,6 +10,7 @@ This is a compiled repo of mods and software i run.
 
 **Stuff 2do:**
 * **IPS 2K 2560*1600 13.3" Display mod**
+* **Red ThinkLight mod**
 * **USB C PD**
 * **Internal USB** - attach RTL8812AU. 
 * **Wifi chipset mod (AX210HMW)**
