@@ -24,3 +24,4 @@ This is a compiled repo of mods and software i run.
 * **DWM**
 * **Kitty**
 * **Vim**
+* **Ly**
