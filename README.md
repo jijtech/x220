@@ -19,7 +19,7 @@ This is a compiled repo of mods and software i run
 * **Remove Management Engine**
 * **Meta Keycap replacement(remove windows logo)**
 * **Speaker mod - Samsung note 10 or Ipad 11" pro speakers**
-* **Quad core mod (kill me..)**
+* **Quad core mod ie - Intel Core i7-3615QE (kill me..)**
 
 **Software i run:**
 * **OS** - Debian Linux and Windows11Pro
