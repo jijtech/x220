@@ -2,6 +2,9 @@
 
 This is a compiled repo of mods and software i run
 
+<img src='x220-back.png' align='right' width='400px'/>
+<img src='x220-front.png' align='right' width='400px'/>
+
 **Stuff done so far:**
 * **Antenna mod**
 * **16Gb RAM**
