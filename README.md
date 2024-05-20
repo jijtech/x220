@@ -25,7 +25,7 @@ This is a compiled repo of mods and software i run
 * **Quad core mod ie - Intel Core i7-3615QE (kill me..)**
 
 **Software i run:**
-* **OS** - Debian Linux and Windows11Pro
+* **OS** - NixOS Linux and Windows11Pro
 * **DWM**
 * **Kitty**
 * **Vim**
